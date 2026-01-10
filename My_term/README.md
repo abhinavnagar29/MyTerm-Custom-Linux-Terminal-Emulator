@@ -1,4 +1,4 @@
-# MyTermw (Modular)
+# MyTerm
 
 A minimal tabbed terminal/shell UI built with X11 + Cairo + Pango, refactored from a single-file prototype into a modular project. It supports job control, shell execution via `/bin/sh`, pipelines and redirections, history with search, autocomplete, a simple multi-command watcher, and clipboard copy/paste.
 
